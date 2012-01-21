@@ -1,0 +1,48 @@
+html {
+}
+
+body {
+    font-family: helvetica, Verdana, Bitstream Vera Sans, serif;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 750px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: monospace;
+    text-align: left;
+}
+
+h1 {
+    font-size: 150px;
+    letter-spacing: -18px;
+    text-align: center;
+}
+
+h2:not(.first) {
+	margin-top: 50px;
+}
+
+h2 {
+    border-top: none;
+    border-right: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #999;
+    border-left: none;
+    font-size: 60px;
+    font-weight: normal;
+    letter-spacing: -8px;
+    text-align: right;
+}
+
+h3 {
+	font-size: 32px;
+    letter-spacing: 3px;
+}
+
+p {
+	font-size: 18px;
+	padding-bottom: 12px;
+}
+
