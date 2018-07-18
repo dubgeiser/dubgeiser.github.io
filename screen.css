@@ -2,43 +2,21 @@ html {
 }
 
 body {
-    font-family: american typewriter, helvetica, Verdana, Bitstream Vera Sans, serif;
+    font-family: 'IBM Plex Sans', 'Georgia', Times, serif;
     margin: 0 auto;
+    margin-left: 10px;
     text-align: left;
-    max-width: 750px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: copperplate, monospace;
+    font-family: 'IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace;
     text-align: left;
 }
-
-h1 {
+h1#site-title {
     font-size: 150px;
-    letter-spacing: -18px;
-    text-align: center;
-}
-
-h2:not(.first) {
-    margin-top: 70px;
-}
-
-h2 {
-    border-top: none;
-    border-right: none;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #999;
-    border-left: none;
-    font-size: 60px;
-    font-weight: normal;
-    letter-spacing: -8px;
-    text-align: right;
-}
-
-h3 {
-    font-size: 32px;
-    letter-spacing: 3px;
+    font-style: italic;
+    margin-bottom: 70px;
+    text-align: left;
 }
 
 p {
@@ -46,3 +24,16 @@ p {
     padding-bottom: 12px;
 }
 
+ul#repositories {
+    margin-left: 100px;
+}
+ul#repositories > li > h3 {
+    font-size: 32px;
+    letter-spacing: 3px;
+}
+ul#repositories > li > h3:before {
+    content: "{";
+}
+ul#repositories > li > h3:after {
+    content: "}";
+}
