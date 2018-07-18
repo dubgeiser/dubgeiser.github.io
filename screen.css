@@ -27,9 +27,12 @@ p {
 ul#repositories {
     margin-left: 100px;
 }
+ul#repositories > li {
+    display: block;
+}
 ul#repositories > li > h3 {
     font-size: 32px;
-    letter-spacing: 3px;
+    margin-bottom: 10px;
 }
 ul#repositories > li > h3:before {
     content: "{";
