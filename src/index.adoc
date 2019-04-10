@@ -1,27 +1,22 @@
-DubGeiser
-=========
+= DubGeiser
 
-https://github.com/dubgeiser/vimconfig[vimconfig]
--------------------------------------------------
+== https://github.com/dubgeiser/vimconfig[vimconfig]
 [.lead]
 My vim configuration.
 
 I've been using Vim as my main editor for quite a while; Going through the SQL dump of a an ancient blog of mine, I ran into a statement for inserting data in the `blog_post`, title: "Going Vim", date: "2004-11-25 12:05".
 
-https://github.com/dubgeiser/tilde[tilde]
------------------------------------------
+== https://github.com/dubgeiser/tilde[tilde]
 [.lead]
 My dotfiles.
 
 I rely on Bash and the usual command line tools and started putting my preferences in git around 2013. I switch to a 1 shell + tmux flow every now and again, but I seem to be always going back to MacVim + iTerm2; the copy-paste just works how I like it and I'm a sucker for pretty colors and italic code comments.
 
-https://github.com/dubgeiser/mbinstall[mbinstall]
--------------------------------------------------
+== https://github.com/dubgeiser/mbinstall[mbinstall]
 [.lead]
 Semi-automatically installation of my MacBook (This should be replaced by something Ansible-based)
 
-https://github.com/dubgeiser/knife[knife]
------------------------------------------
+== https://github.com/dubgeiser/knife[knife]
 [.lead]
 PHP Code collection, geared towards developing with https://www.fork-cms.com/[Fork CMS].
 
