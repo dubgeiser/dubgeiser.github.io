@@ -1,0 +1,7 @@
+// urls to my repositories
+
+:url-vimconfig: https://github.com/dubgeiser/vimconfig
+:url-tilde: https://github.com/dubgeiser/tilde
+:url-mbinstall: https://github.com/dubgeiser/mbinstall
+:url-knife: https://github.com/dubgeiser/knife
+:url-fork: https://www.fork-cms.com/
