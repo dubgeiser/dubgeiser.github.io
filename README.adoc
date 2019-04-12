@@ -1,0 +1,6 @@
+= DubGeiser GitHub Pages
+
+[source,bash]
+$ make                          # Build html site locally
+$ make server                   # Run http server (use tmux!)
+$ open http://localhost:8000    # Preview in browser
