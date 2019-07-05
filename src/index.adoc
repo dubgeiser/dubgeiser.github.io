@@ -4,7 +4,7 @@ include::urls.adoc[]
 
 == {url-vimconfig}[vimconfig]
 [.lead]
-My vim configuration.
+My Vim configuration.
 
 I've been using Vim as my main editor for quite a while; Going through the SQL dump of a an ancient blog of mine, I ran into a statement for inserting data in the `blog_post`, title: "Going Vim", date: "2004-11-25 12:05".
 
