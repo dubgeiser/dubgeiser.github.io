@@ -4,15 +4,20 @@ include::urls.adoc[]
 
 == {url-vimconfig}[vimconfig]
 [.lead]
-My Vim configuration.
+My Neovim configuration.
 
 I've been using Vim as my main editor for quite a while; Going through the SQL dump of a an ancient blog of mine, I ran into a statement for inserting data in the `blog_post`, title: "Going Vim", date: "2004-11-25 12:05".
+
+After running `vimtutor`, I fairly quickly switched to the GUI version of Vim (GVim, I was on Windows at the time); I found the font rendering to be better, it had nicer color schemes and the default copypaste actions just worked out-of-the-box.
+
+When I switched to MacOS, I ran MacVim up until the end of 2020.  And then I switched to {url-neovim}[Neovim] almost overnight and haven't regretted it yet.  Even if I don't have the normal copypaste action like I would like it... yet.
+I cleaned and tweaked my config accordingly, removing settings that Neovim has set by default.  So do be aware that this configuration has only ever really been run on Mac Neovim.
 
 == {url-tilde}[tilde]
 [.lead]
 My dotfiles.
 
-I rely on Bash and the usual command line tools and started putting my preferences in git around 2013. I switch to a 1 shell + tmux flow every now and again, but I seem to be always going back to MacVim + iTerm2; the copy-paste just works how I like it and I'm a sucker for pretty colors and italic code comments.
+I rely on Bash and the usual command line tools and started putting my preferences in git around 2013. I switch to a 1 shell + tmux flow every now and again, but I used to always go back to MacVim + iTerm2, up until end 2020, when I fully switched to Neovim.
 
 == {url-mbinstall}[mbinstall]
 [.lead]

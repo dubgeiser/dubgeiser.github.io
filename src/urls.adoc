@@ -5,3 +5,4 @@
 :url-mbinstall: https://github.com/dubgeiser/mbinstall
 :url-knife: https://github.com/dubgeiser/knife
 :url-fork: https://www.fork-cms.com/
+:url-neovim: https://neovim.io
