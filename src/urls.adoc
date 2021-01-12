@@ -7,3 +7,5 @@
 :url-fork: https://www.fork-cms.com/
 :url-neovim: https://neovim.io
 :url-ansible: https://www.ansible.com/
+:url-rpi: https://www.raspberrypi.org/
+:url-libreelec: https://libreelec.tv/

@@ -30,3 +30,9 @@ NOTE: Since I'm getting a bit more familiar with {url-ansible}[Ansible], this wi
 PHP Code collection, geared towards developing with {url-fork}[Fork CMS].
 
 NOTE: Knife isn't maintained anymore, the repo is archived.
+
+== {url-rpi}[Raspberry PI]
+[.lead]
+Using small computers as home servers and media players.
+
+I bought a 4B in 2019, installed Samba, Apache, Transmission daemon, amongst other things, and it runs in the home network as a basic server.  Another RPI (an older B+ model) has Kodi installed via {url-libreelec}[LibreELEC] and is quite capable of 1080p playback without hick-ups.  If we ever buy a new television, I'll replace it with a model that can handle 4K of course, but for now, this works quite well.
