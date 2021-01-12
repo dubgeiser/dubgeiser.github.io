@@ -21,7 +21,9 @@ I rely on Bash and the usual command line tools and started putting my preferenc
 
 == {url-mbinstall}[mbinstall]
 [.lead]
-Semi-automatically installation of my MacBook (This should be replaced by something Ansible-based)
+Basically a Bash script for installing my MacBook.
+
+NOTE: Since I'm getting a bit more familiar with {url-ansible}[Ansible], this will probably be replaced by some playbooks.
 
 == {url-knife}[knife]
 [.lead]

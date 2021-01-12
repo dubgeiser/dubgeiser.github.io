@@ -6,3 +6,4 @@
 :url-knife: https://github.com/dubgeiser/knife
 :url-fork: https://www.fork-cms.com/
 :url-neovim: https://neovim.io
+:url-ansible: https://www.ansible.com/
