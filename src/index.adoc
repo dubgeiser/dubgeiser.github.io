@@ -18,6 +18,9 @@ I cleaned and tweaked my config accordingly, removing settings that Neovim has s
 My dotfiles.
 
 I rely on Bash and the usual command line tools and started putting my preferences in git around 2013. I switch to a 1 shell + tmux flow every now and again, but I used to always go back to MacVim + iTerm2, up until end 2020, when I fully switched to Neovim.
+A little while after that, I replaced iTerm2 with {url-kitty}[Kitty].
+
+The installation of Tilde is managed by {url-stow}[Stow]
 
 == {url-mbinstall}[mbinstall]
 [.lead]

@@ -1,4 +1,4 @@
-// urls to my repositories
+// Main urls of the stuff I use and/or made
 
 :url-vimconfig: https://github.com/dubgeiser/vimconfig
 :url-tilde: https://github.com/dubgeiser/tilde
@@ -9,3 +9,5 @@
 :url-ansible: https://www.ansible.com/
 :url-rpi: https://www.raspberrypi.org/
 :url-libreelec: https://libreelec.tv/
+:url-kitty: https://sw.kovidgoyal.net/kitty/
+:url-stow: https://www.gnu.org/software/stow/

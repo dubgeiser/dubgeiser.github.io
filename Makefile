@@ -1,5 +1,6 @@
 default:
-	asciidoctor -b html5 -D . src/index.adoc
+	asciidoctor -b html5 --destination-dir=. ./src/index.adoc
+	asciidoctor -b html5 --destination-dir=./work ./src/work/*.adoc
 	~/bin/ffreload
 
 server:
