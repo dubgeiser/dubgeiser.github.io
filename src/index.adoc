@@ -6,7 +6,6 @@ include::urls.adoc[]
 [.lead]
 My Neovim configuration.
 
-(dit is voor Dweezil)
 I've been using Vim as my main editor for quite a while; Going through the SQL dump of a an ancient blog of mine, I ran into a statement for inserting data in the `blog_post`, title: "Going Vim", date: "2004-11-25 12:05".
 
 After running `vimtutor`, I fairly quickly switched to the GUI version of Vim (GVim, I was on Windows at the time); I found the font rendering to be better, it had nicer color schemes and the default copypaste actions just worked out-of-the-box.
