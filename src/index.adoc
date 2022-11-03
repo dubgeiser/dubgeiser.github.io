@@ -22,6 +22,13 @@ A little while after that, I replaced iTerm2 with {url-kitty}[Kitty].
 
 The installation of Tilde is managed by {url-stow}[Stow]
 
+== {url-fixit}[fixit.nvim]
+[.lead]
+Fixit plugin for Neovim.
+
+Fixit is a small Neovim plugin written in Lua to get myself a bit acquainted with Lua, Treesitter etc...
+Basically Fixit uses Treesitter to go through the document in the current buffer and parses out comments that have TODO's, FIXME's and similar tokens in them.  It can list them up in the Neovim's quickfix window or in the window of the {url-trouble}[Trouble plugin]
+
 == {url-mbinstall}[mbinstall]
 [.lead]
 Basically a Bash script for installing my MacBook.

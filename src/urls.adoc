@@ -11,3 +11,5 @@
 :url-libreelec: https://libreelec.tv/
 :url-kitty: https://sw.kovidgoyal.net/kitty/
 :url-stow: https://www.gnu.org/software/stow/
+:url-fixit: https://github.com/dubgeiser/fixit.nvim
+:url-trouble: https://github.com/folke/trouble.nvim
