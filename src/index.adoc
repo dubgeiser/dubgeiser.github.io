@@ -27,7 +27,7 @@ The installation of Tilde is managed by {url-stow}[Stow]
 Fixit plugin for Neovim.
 
 Fixit is a small Neovim plugin written in Lua to get myself a bit acquainted with Lua, Treesitter etc...
-Basically Fixit uses Treesitter to go through the document in the current buffer and parses out comments that have TODO's, FIXME's and similar tokens in them.  It can list them up in the Neovim's quickfix window or in the window of the {url-trouble}[Trouble plugin]
+Basically Fixit uses Treesitter to go through the document in the current buffer and parses out comments that have TODO's, FIXME's and similar tokens in them.  It can list them up in the Neovim's quickfix window or in the window of the {url-trouble}[Trouble plugin].
 
 == {url-mbinstall}[mbinstall]
 [.lead]
@@ -46,3 +46,13 @@ NOTE: Knife isn't maintained anymore, the repo is archived.
 Using small computers as home servers and media players.
 
 I bought a 4B in 2019, installed Samba, Apache, Transmission daemon, amongst other things, and it runs in the home network as a basic server.  Another RPI (an older B+ model) has Kodi installed via {url-libreelec}[LibreELEC] and is quite capable of 1080p playback without hick-ups.  If we ever buy a new television, I'll replace it with a model that can handle 4K of course, but for now, this works quite well.
+
+== The Socials
+[.lead]
+I'm on _some_ social media networks.
+
+Places you might find me:
+
+    - {url-twitter}[Twitter]
+    - {url-github}[Well, here on GitHub]
+    - {url-mastodon}[Mastodon]

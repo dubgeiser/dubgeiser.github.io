@@ -1,5 +1,6 @@
 // Main urls of the stuff I use and/or made
 
+:url-github: https://github.com/dubgeiser
 :url-vimconfig: https://github.com/dubgeiser/vimconfig
 :url-tilde: https://github.com/dubgeiser/tilde
 :url-mbinstall: https://github.com/dubgeiser/mbinstall
@@ -13,3 +14,5 @@
 :url-stow: https://www.gnu.org/software/stow/
 :url-fixit: https://github.com/dubgeiser/fixit.nvim
 :url-trouble: https://github.com/folke/trouble.nvim
+:url-twitter: https://twitter.com/dubgeiser
+:url-mastodon: https://mastodon-belgium.be/@dubgeiser
