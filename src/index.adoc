@@ -6,6 +6,8 @@ include::urls.adoc[]
 [.lead]
 My Neovim configuration.
 
+NOTE: temporarily made private
+
 I've been using Vim as my main editor for quite a while; Going through the SQL dump of a an ancient blog of mine, I ran into a statement for inserting data in the `blog_post`, title: "Going Vim", date: "2004-11-25 12:05".
 
 After running `vimtutor`, I fairly quickly switched to the GUI version of Vim (GVim, I was on Windows at the time); I found the font rendering to be better, it had nicer color schemes and the default copypaste actions just worked out-of-the-box.
@@ -16,6 +18,8 @@ I cleaned and tweaked my config accordingly, removing settings that Neovim has s
 == {url-tilde}[tilde]
 [.lead]
 My dotfiles.
+
+NOTE: temporarily made private
 
 I rely on Bash and the usual command line tools and started putting my preferences in git around 2013. I switch to a 1 shell + tmux flow every now and again, but I used to always go back to MacVim + iTerm2, up until end 2020, when I fully switched to Neovim.
 A little while after that, I replaced iTerm2 with {url-kitty}[Kitty].
