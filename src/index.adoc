@@ -57,6 +57,5 @@ I'm on _some_ social media networks.
 
 Places you might find me:
 
-    - {url-twitter}[Twitter]
     - {url-github}[Well, here on GitHub]
     - {url-mastodon}[Mastodon]
